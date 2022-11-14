@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.firstheading {
+    color: white;
+    padding: 20px 20px 0 20px;
+}
+.secondheading {
+    color: #1b1c1e;
+    padding: 20px 20px 0 20px;
+}
+.firstdiv {
+    background-color: aquamarine;
+    height: 200px;
+    width: 50%;
+}
+#div1 {
+    background-color: brown;
+    height: 220px;
+    width: 50%;
+    margin: 40px 20px;
+}
+#myfirstlist {
+    padding: 0 30px 30px 30px;
+    margin: 30px;
+    line-height: 25px;
+}
+.list1 {
+    padding: 0 20px 20px 20px;
+    margin: 20px;
+    line-height: 20px;
+}
+.mylist {
+    color: white;
+}
+#personallist {
+    color: wheat;
+}
+#div2 {
+    background-color: aquamarine;
+    height: 300px;
+    width: 50%;
+    margin: 20px;
+}
+.seconddiv {
+    background-color: burlywood;
+    height: 150px;
+    width: 50%;
+}
+.list2 {
+    padding: 0 20px 20px 20px;
+    margin: 20px;
+    line-height: 20px;
+}
+#mysecondlist {
+    list-style-type: lower-latin;
+}
+.mydislikes {
+    line-height: 25px;
+    font-weight: 600;
+    font-size: 20px;
+}
+#dislikes {
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 50px;
+}
